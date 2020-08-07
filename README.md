@@ -1,4 +1,4 @@
-I have created this project using Flutter and firebase as database. User can view available appointments , book appointment. The app displays confirmation snackbar after you book your appointment. One slot can’t be book by more than 5 people. 
+I have created this project using Flutter and firebase as database. User can view available appointments , book appointment. The app displays confirmation snackbar after you book your appointment. One slot can’t be book by more than 5 people. And if the user selects a past date then no appointments will be shown.
 
 
 Showing available Appointments on a selected day where one slot can’t be book by more than 5 people. 
